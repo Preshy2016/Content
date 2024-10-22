@@ -4,44 +4,31 @@
 
 }
 body{
-    background-image: url("https://img.freepik.com/free-photo/view-clear-water-with-splash-effect_23-2150869838.jpg");
+    background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fwhite-wallpaper&psig=AOvVaw1i6i6ujwH6oTeI3pGWDqmX&ust=1729690054718000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCeouCLookDFQAAAAAdAAAAABAJ");
     background-size: cover;
-
-}
-
-header{
-    align-items: center;
-    
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 nav {
-    background-color: aqua;
-    align-items: center;
+    background-color: rgb(6, 6, 6);
     display: flex;
     padding: 20px;
-    list-style:  none;
     gap: 1rem;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-}
-li {
-    
-    margin-left: 300px;
-    
+    justify-content: center;
+ 
    
 }
-.app {
-    margin: 20px;
-    padding: 30px;
-    max-width: 350px;
-    background-color: #f1f2f3;
-    border-radius: 10px;
-    box-shadow: 10px 10px;
-    height: 40px;
-    align-items: center;
-    color: black;
-
+.image {
+    padding-right: 20px;
+    float: left;
+    
 }
 
-.name {
-    color: blueviolet;
+a {
+    color: #fbf8f8;
+    align-items: center;
+    padding-top: 25px;
+    text-decoration: none;
+    float: left;
+   
 }
