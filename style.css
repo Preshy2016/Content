@@ -37,6 +37,7 @@ li {
     border-radius: 10px;
     box-shadow: 10px 10px;
     height: 40px;
+    align-items: center;
 
 }
 
